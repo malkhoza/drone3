@@ -1,6 +1,6 @@
-This is a simple drone simulatio game
+This is a simple drone simulation game
 
-IF YOU USING THE A DESKTOP
+IF  YOU ARE USING A DESKTOP
 
 *press W to move foward
 *press A to move right
@@ -9,12 +9,13 @@ IF YOU USING THE A DESKTOP
 
 you can also orbit around the scene with mousemovement
 
-click the space REPORT button to view the position of the drone
-click the space PLACE button to reset the positionof the drone
+click 
+click REPORT button to view the position of the drone
+click  PLACE button to reset the positionof the drone
 
 
 
-IF YOU USING THE A MOBILE DEVICE
+IF YOU ARE USING A MOBILE DEVICE
 
 *press F to move foward
 *press R to move right
@@ -22,5 +23,5 @@ IF YOU USING THE A MOBILE DEVICE
 *press A to shoot
 
 
-click the space REPORT button to view the position of the drone
-click the space PLACE button to reset the positionof the drone
+click  REPORT button to view the position of the drone
+click PLACE button to reset the positionof the drone
